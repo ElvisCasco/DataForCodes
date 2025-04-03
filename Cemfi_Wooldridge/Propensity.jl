@@ -6,7 +6,7 @@ using StatsModels
 using GLM
 using DataFrames
 using Distributions
-using Gadfly
+#using Gadfly
 using StatsBase:sample
 
 # Module test
